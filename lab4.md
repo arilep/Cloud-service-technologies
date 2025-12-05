@@ -1,4 +1,4 @@
-## Lab Debriefing: Networking
+## Lab Debriefing: Intermediate Cloud Concepts
 
 ## I. AWS Lab
 
